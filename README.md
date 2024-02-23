@@ -23,3 +23,5 @@
 - [**naming branches**](https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/naming-git-branches/)
 
 - [**learn git**](https://www.atlassian.com/git/tutorials)
+
+- [**commit message proposal**](https://gist.github.com/abravalheri/34aeb7b18d61392251a2)
