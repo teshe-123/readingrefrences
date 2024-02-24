@@ -25,3 +25,5 @@
 - [**learn git**](https://www.atlassian.com/git/tutorials)
 
 - [**commit message proposal**](https://gist.github.com/abravalheri/34aeb7b18d61392251a2)
+
+- [**issue guide**](https://gist.github.com/sampathg9/fb25ff2b84b3f279417d)
