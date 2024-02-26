@@ -27,3 +27,7 @@
 - [**commit message proposal**](https://gist.github.com/abravalheri/34aeb7b18d61392251a2)
 
 - [**issue guide**](https://gist.github.com/sampathg9/fb25ff2b84b3f279417d)
+
+# javascript
+
+- [**binding function**](https://javascript.info/bind#:~:text=The%20full%20syntax%20of%20bind,starting%20arguments%20of%20the%20function.)
